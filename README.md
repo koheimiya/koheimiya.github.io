@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Bio
+* Researcher (applied mathematics, machine learning)
+* Working at IBM Research - Tokyo
 
-You can use the [editor on GitHub](https://github.com/koheimiya/koheimiya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Publication
+* Miyaguchi, K. & Yamanishi, K. (2019). Adaptive Minimax Regret against Smooth Logarithmic Losses over High-Dimensional l1-Balls via Envelope Complexity. In Proceedings of the 22nd International Conference on  Artificial Intelligence and Statistics (AISTATS'19), 89, 3440-3448, Okinawa, Japan.
+* Miyaguchi, K. & Kajino, K. (2019). Cogra: Concept-drift-aware Stochastic Gradient Descent for Time-series Forecasting, In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), xx-xx, Hawaii, USA.
+* Miyaguchi, K., & Yamanishi, K. (2018). High-dimensional penalty selection via minimum description length principle. Machine Learning, 107(8-10), 1283-1302.
+* Miyaguchi, K., Matsushima, S., & Yamanishi, K. (2017). Sparse Graphical Modeling via Stochastic Complexity. In Proceedings of 2017 SIAM International Conference on Data Mining, 723-731, Texas, USA.
+* Miyaguchi, K., Matsushima, S., & Yamanishi, K. (2016). Stochastic Complexity for Sparse Modeling. In Proceedings of Ninth Workshop on Information Theoretic Methods in Science and Engineering, 24-25, Helsinki, Finland.
+* Miyaguchi, K., & Yamanishi, K. (2015). On-line detection of continuous changes in stochastic processes. In Proceedings of IEEE International Conference on Data Science and Advanced Analytics, 1-9.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Blog
 
-### Markdown
+## Code
+[GitHub](https://github.com/koheimiya), [Bitbucket](https://bitbucket.org/kmiya/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koheimiya/koheimiya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+(firstname)(lastname)(at)gmail(dot)com // No space in between
