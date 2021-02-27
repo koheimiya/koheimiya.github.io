@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: kohei.miyaguchi
+description: My thoughts, papers and codes.
+github:
+  is_project_page: false
