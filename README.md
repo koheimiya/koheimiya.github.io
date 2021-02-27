@@ -10,11 +10,11 @@
 * Miyaguchi, K., Matsushima, S., & Yamanishi, K. (2016). Stochastic Complexity for Sparse Modeling. In Proceedings of Ninth Workshop on Information Theoretic Methods in Science and Engineering, 24-25, Helsinki, Finland.
 * Miyaguchi, K., & Yamanishi, K. (2015). On-line detection of continuous changes in stochastic processes. In Proceedings of IEEE International Conference on Data Science and Advanced Analytics, 1-9.
 
-## Blog
-
 ## Code
 * [Graphical lasso](https://github.com/koheimiya/pyglassobind) (implemented with C++, binded to Python via pybind11)
 * Others: [GitHub](https://github.com/koheimiya), [Bitbucket](https://bitbucket.org/kmiya/)
+
+## Blog
 
 ## Contact
 (firstname)(lastname)(at)gmail(dot)com // No space in between
