@@ -1,4 +1,4 @@
-![my picture](assets/my_picture.jpg)
+<img src="assets/my_picture.jpg" width="200px">
 
 ## Bio
 * Researcher (applied mathematics, machine learning)
