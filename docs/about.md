@@ -9,9 +9,9 @@ permalink: /about/
 ## Short Bio
 
 * April 2019~, Researcher, IBM Research
-* ~March 2019, Ph.D in Engineering, the University of Tokyo
-* ~March 2016, Master of Science in Engineering, the University of Tokyo
-* ~March 2014, Bachelor of Science in Engineering, the University of Tokyo
+* ~March 2019, Ph.D. (Information Science and Engineering), the University of Tokyo
+* ~March 2016, Master of Science (Engineering), the University of Tokyo
+* ~March 2014, Bachelor of Science (Engineering), the University of Tokyo
 
 
 ## Research Interest
