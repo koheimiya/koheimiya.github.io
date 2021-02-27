@@ -13,7 +13,8 @@
 ## Blog
 
 ## Code
-[GitHub](https://github.com/koheimiya), [Bitbucket](https://bitbucket.org/kmiya/)
+* [Graphical lasso](https://github.com/koheimiya/pyglassobind) (implemented with C++, binded to Python via pybind11)
+* Others: [GitHub](https://github.com/koheimiya), [Bitbucket](https://bitbucket.org/kmiya/)
 
 ## Contact
 (firstname)(lastname)(at)gmail(dot)com // No space in between
