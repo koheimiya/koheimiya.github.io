@@ -1,3 +1,5 @@
+<img src="assets/my_picture.jpg" width="200px">
+
 ## Bio
 * Researcher (applied mathematics, machine learning)
 * Working at IBM Research - Tokyo
