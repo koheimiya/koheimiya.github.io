@@ -40,3 +40,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# minima configs
+header_pages:
+  - publication.md
+  - code.md
+  - about.md

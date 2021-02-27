@@ -3,16 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src="/assets/my_picture.jpg" width="200px">
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Short Bio
+
+* April 2019~, Researcher, IBM Research
+* ~March 2019, Ph.D in Engineering, the University of Tokyo
+* ~March 2016, Master of Science in Engineering, the University of Tokyo
+* ~March 2014, Bachelor of Science in Engineering, the University of Tokyo
+
+
+## Research Interest
+
+* Online Learning
+* Reinforcement Learning
+* Information Theory
+* Statistical Machine Learning
