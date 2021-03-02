@@ -6,6 +6,7 @@ layout: home
 ---
 
 <img src="/assets/Elements_of_Inductive_Inference.png">
+<img src="/assets/my_picture.jpg" width="200px">
 
 <!--
 <object data="/assets/elements_of_inductive_inference.pdf" type="application/pdf" width="700px" height="700px">
