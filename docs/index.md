@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/Elements_of_Inductive_Inference.png">
+<img src="{{ site.baseurl }}/assets/Elements_of_Inductive_Inference.png">
 
 <!--
 <object data="/assets/elements_of_inductive_inference.pdf" type="application/pdf" width="700px" height="700px">
