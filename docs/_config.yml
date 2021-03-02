@@ -46,3 +46,6 @@ header_pages:
   - publication.md
   - code.md
   - about.md
+
+# Github pages -- https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
+baseurl: /docs
