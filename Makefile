@@ -1,4 +1,4 @@
 .PHONY: all
 
 all:
-	cd docs && bundle exec jekyll serve --baseurl ''
+	cd docs && bundle exec jekyll serve
