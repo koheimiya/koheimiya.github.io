@@ -26,8 +26,9 @@ github_username:  koheimiya
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-feed
+  # - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,6 +47,3 @@ header_pages:
   - publication.md
   - code.md
   - about.md
-
-# Github pages -- https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
-# baseurl: /docs
