@@ -17,7 +17,7 @@ layout: home
 * ~Mar 2014, Bachelor of Science (Engineering), the University of Tokyo
 
 
-## Research Interest
+## Research Interests
 
 * Online Learning
 * Reinforcement Learning
