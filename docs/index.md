@@ -9,12 +9,12 @@ layout: home
 <img src="/assets/my_picture.jpg" width="200px">
 
 
-## Short Bio
+## Bio
 
-* April 2019~, Researcher, IBM Research
-* ~March 2019, Ph.D. (Information Science and Engineering), the University of Tokyo
-* ~March 2016, Master of Science (Engineering), the University of Tokyo
-* ~March 2014, Bachelor of Science (Engineering), the University of Tokyo
+* Apr 2019~, Researcher, IBM Research - Tokyo
+* ~Mar 2019, Ph.D. (Information Science and Engineering), the University of Tokyo
+* ~Mar 2016, Master of Science (Engineering), the University of Tokyo
+* ~Mar 2014, Bachelor of Science (Engineering), the University of Tokyo
 
 
 ## Research Interest
@@ -23,3 +23,7 @@ layout: home
 * Reinforcement Learning
 * Information Theory
 * Statistical Machine Learning
+
+## Contact
+
+E-mail: koheimiyaguchi[at]gmail.com
