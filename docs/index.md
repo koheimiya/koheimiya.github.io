@@ -4,14 +4,22 @@
 
 layout: home
 ---
-<img src="assets/Elements_of_Inductive_Inference.png">
+<!-- <img src="assets/Elements_of_Inductive_Inference.png"> -->
 
-<!--
-<object data="/assets/elements_of_inductive_inference.pdf" type="application/pdf" width="700px" height="700px">
-<embed src="/assets/elements_of_inductive_inference.pdf">
-<p>This browser does not support PDFs. Please download the PDF to view it:
-<a href="/assets/elements_of_inductive_inference.pdf">Download PDF</a>.
-</p>
-</embed>
-</object>
--->
+<img src="/assets/my_picture.jpg" width="200px">
+
+
+## Short Bio
+
+* April 2019~, Researcher, IBM Research
+* ~March 2019, Ph.D. (Information Science and Engineering), the University of Tokyo
+* ~March 2016, Master of Science (Engineering), the University of Tokyo
+* ~March 2014, Bachelor of Science (Engineering), the University of Tokyo
+
+
+## Research Interest
+
+* Online Learning
+* Reinforcement Learning
+* Information Theory
+* Statistical Machine Learning

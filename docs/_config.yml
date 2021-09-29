@@ -46,4 +46,4 @@ plugins:
 header_pages:
   - publication.md
   - code.md
-  - about.md
+    # - about.md
