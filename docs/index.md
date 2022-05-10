@@ -26,4 +26,4 @@ layout: home
 
 ## Contact
 
-E-mail: koheimiyaguchi[at]gmail.com
+E-mail: miyaguchi[at]ibm.com / koheimiyaguchi[at]gmail.com
