@@ -22,3 +22,6 @@ permalink: /publication/
 * Kaneko, R., Miyaguchi, K., & Yamanishi, K. (2017). Detecting changes in streaming data with information-theoretic windowing. In 2017 IEEE International Conference on Big Data (Big Data) (pp. 646-655). IEEE.
 * Suzuki, A., Miyaguchi, K., & Yamanishi, K. (2016). Structure selection for convolutive non-negative matrix factorization using normalized maximum likelihood coding. In 2016 IEEE 16th International Conference on Data Mining (ICDM) (pp. 1221-1226). IEEE.
 * Yamanishi, K., & Miyaguchi, K. (2016). Detecting gradual changes from data stream using MDL-change statistics. In 2016 IEEE International Conference on Big Data (Big Data) (pp. 156-163). IEEE.
+
+### Talks
+* Miyaguchi, K. (2022). 汎化誤差解析から始める統計的学習理論 (Introduction to Statistical Learning Theory with Generalization Error Analysis). IBIS Workshop 2022 tutorial. [slide](https://speakerdeck.com/kmiyag/ibis2022tiyutoriaru-tong-ji-de-xue-xi-li-lun-ru-men)
