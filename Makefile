@@ -1,4 +1,4 @@
-SETENV=PATH=/usr/local/opt/ruby/bin:$$PATH 
+SETENV=PATH=/opt/homebrew/opt/ruby/bin:$$PATH 
 
 .PHONY: all
 all:
