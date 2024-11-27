@@ -7,7 +7,7 @@ layout: home
 
 <img src="/assets/my_picture.jpg" width="200px">
 
-## Bio
+## Bio [[resume](assets/resume.pdf)]
 
 * 2019-Now:  Researcher, IBM Research - Tokyo
 * 2019: Ph.D. (Information Science and Engineering), University of Tokyo
