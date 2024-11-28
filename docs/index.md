@@ -7,23 +7,24 @@ layout: home
 
 <img src="/assets/my_picture.jpg" width="200px">
 
-## Bio [[resume](assets/resume.pdf)]
+I am interested in **understanding of adaptive intelligence** and **its real-world applications**.  
+More concretely, I study
+* reinforcement learning ⊂
+* machine learning ⊂
+* mathematical engineering.
 
-* 2019-Now:  Researcher, IBM Research - Tokyo
-* 2019: Ph.D. (Information Science and Engineering), University of Tokyo
-* 2016: Master of Science (Engineering), University of Tokyo
-* 2014: Bachelor of Science (Engineering), University of Tokyo
-* 2010: Graduated Azabu Senior High School
+## Short bio [[resume](assets/resume.pdf)]
 
+* 2019-Now: Researcher, Math & Sciences, IBM Research - Tokyo
+* 2019: Ph.D., Mathematical Informatics, Information Science and Technology, UTokyo
+* 2016: M.Sci., Mathematical Informatics, Information Science and Technology, UTokyo
+* 2014: B.Sci., Mathematical Engineering and Information Physics, Engineering, UTokyo
+* 2010: Graduation, Azabu Senior High
 
-## Research Interests
-
-* Reinforcement Learning
-* Statistical Machine Learning
-
-<!-- <img src="assets/Elements_of_Inductive_Inference.png"> -->
-<img src="assets/Elements_of_Inductive_Inference.png" width="50%">
 
 ## Contact
 
 E-mail: koheimiyaguchi[at]gmail.com
+
+<!-- <img src="assets/Elements_of_Inductive_Inference.png"> -->
+<img src="assets/Elements_of_Inductive_Inference.png" width="50%">
