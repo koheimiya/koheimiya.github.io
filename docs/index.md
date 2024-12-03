@@ -28,4 +28,4 @@ More concretely, I study
 E-mail: koheimiyaguchi[at]gmail.com
 
 <!-- <img src="assets/Elements_of_Inductive_Inference.png"> -->
-<img src="assets/Elements_of_Inductive_Inference.png" width="50%">
+<!-- <img src="assets/Elements_of_Inductive_Inference.png" width="50%"> -->
