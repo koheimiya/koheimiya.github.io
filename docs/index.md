@@ -16,7 +16,7 @@ More concretely, I study
 ## Short bio [[resume](assets/resume.pdf)]
 
 * Dec. 2024-Now: Chief Researcher, Data Science, LY Research
-* 2019-2024: Researcher, Math & Sciences, IBM Research - Tokyo
+* 2019-2024: Research Staff Member, Math & Sciences, IBM Research - Tokyo
 * 2019: Ph.D., Mathematical Informatics, Information Science and Technology, UTokyo
 * 2016: M.Sci., Mathematical Informatics, Information Science and Technology, UTokyo
 * 2014: B.Sci., Mathematical Engineering and Information Physics, Engineering, UTokyo
