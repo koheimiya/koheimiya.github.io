@@ -5,9 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/my_picture.jpg" width="200px">
-
-I am interested in **understanding of adaptive intelligence** and **its real-world applications**.  
+I am interested in understanding adaptivity of intelligence and its real-world applications.  
 More concretely, I study
 * reinforcement learning ⊂
 * machine learning ⊂
@@ -15,7 +13,9 @@ More concretely, I study
 
 ## Short bio [[resume](assets/resume.pdf)]
 
-* Dec. 2024-Now: Chief Researcher, Data Science, LY Research
+<img src="/assets/my_picture.jpg" width="200px">
+
+* Dec. 2024-Now: Chief Researcher, Data Science, LY Research (LINEヤフー研究所)
 * 2019-2024: Research Staff Member, Math & Sciences, IBM Research - Tokyo
 * 2019: Ph.D., Mathematical Informatics, Information Science and Technology, UTokyo
 * 2016: M.Sci., Mathematical Informatics, Information Science and Technology, UTokyo
