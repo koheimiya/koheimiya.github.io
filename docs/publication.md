@@ -31,7 +31,8 @@ permalink: /publication/
 #### Game theory
 * Kinoshita, H., Osogami, T., & **Miyaguchi, K.** (2024). Socially efficient mechanism on the minimum budget. arXiv.
 
-## Talks
+## Invited Talks
+* **Miyaguchi, K.** (2024). 限られたデータを用いた強化学習の成功条件について. 2024年度CIGS経済・社会の分野横断的研究会. [[slide](./assets/canon_invited_talk_202412.pdf)]
 * **Miyaguchi, K.** (2022). 汎化誤差解析から始める統計的学習理論 (Tutorial on Statistical Learning Theory with Generalization Error Analysis). IBIS Workshop 2022 tutorial. [[slide](https://speakerdeck.com/kmiyag/ibis2022tiyutoriaru-tong-ji-de-xue-xi-li-lun-ru-men)]
 * **Miyaguchi, K.** (2022). NeurIPS2021 Review on Deep Learning Theories, The 83rd JSAI Seminar.
 * **Miyaguchi, K.** (2020). PAC-Bayesian Transportation Bound, RIKEN AIP Mathematical Seminar.
