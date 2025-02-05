@@ -9,7 +9,7 @@ permalink: /publication/
 #### Reinforcement learning
 * **Miyaguchi, K.** (2024). Worst-Case Offline Reinforcement Learning with Arbitrary Data Support. NeurIPS-24. [[poster](assets/neurips2024_poster.pdf)/[paper](https://openreview.net/pdf?id=63VajkIDEu)]
 * Kajino, H., **Miyaguchi, K.**, & Osogami, T. (2023). Biases in evaluation of molecular optimization methods and bias reduction strategies. ICML-23.
-* **Miyaguchi, K.** (2022). A Theoretical Framework of Almost Hyperparameter-free Hyperparameter Selection Methods for Offline Policy Evaluation. AAAI-22 Workshop. [[paper](https://arxiv.org/abs/2201.02300)]
+* **Miyaguchi, K.** (2022). A Theoretical Framework of Almost Hyperparameter-free Hyperparameter Selection Methods for Offline Policy Evaluation. AAAI-22 Workshop. [[paper](https://arxiv.org/abs/2201.02300v1)]
 * **Miyaguchi, K.** (2021). Asymptotically Exact Error Characterization of Offline Policy Evaluation with Linear Direct Method under Unrealizability. NeurIPS-21. [[poster](assets/NeurIPS21_postor_v2.pdf)/[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f0282b5ff85e7c9c66200d780bd7e72e-Abstract.html)]
 
 #### Machine learning theory

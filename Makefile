@@ -1,17 +1,15 @@
-SETENV=PATH=/opt/homebrew/opt/ruby/bin:$$PATH 
-
 .PHONY: all
 all:
-	cd docs && $(SETENV) bundle exec jekyll serve
+	cd docs && bundle exec jekyll serve
 
 .PHONY: install
 install:
-	cd docs && $(SETENV) bundle install
+	cd docs && bundle install
 
 .PHONY: upgrade
 upgrade:
-	cd docs && $(SETENV) bundle update github-pages
+	cd docs && bundle update github-pages
 
 .PHONY: webrick
 webrick:
-	cd docs && $(SETENV) bundle add webrick
+	cd docs && bundle add webrick
