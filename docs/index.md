@@ -12,7 +12,7 @@ My area of expertise includes machine learning theory and reinforcement learning
 
 <img src="/assets/my_picture.jpg" width="200px">
 
-* 2024-Now: Chief Researcher, LY Research (LINEヤフー研究所)
+* 2024-Now: Chief Researcher, LY Corporation Research (LINEヤフー研究所)
 * 2019-2024: Research Staff Member, IBM Research - Tokyo
 * 2019: Ph.D. (Information Science and Technology), UTokyo
 * 2016: M.S. (Information Science and Technology), UTokyo
