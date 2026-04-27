@@ -7,7 +7,7 @@ permalink: /publication/
 ## Papers
 
 #### Reinforcement learning
-* **Miyaguchi, K.** (2026). Duality-based Residual Estimation for Fully Offline Value-based Reinforcement Learning. AISTATS-2026.
+* **Miyaguchi, K.** (2026). Duality-based Residual Estimation for Fully Offline Value-based Reinforcement Learning. AISTATS-2026. [[poster](assets/AISTATS2026_poster_v2.pdf)]
 * Wachi, A., **Miyaguchi, K.**, Tanabe, T., Sato, R., & Akimoto, Y. (2025). A Provable Approach for End-to-End Safe Reinforcement Learning. NeurIPS-25. [[paper](https://arxiv.org/abs/2505.21852)]
 * **Miyaguchi, K.** (2024). Worst-Case Offline Reinforcement Learning with Arbitrary Data Support. NeurIPS-24. [[poster](assets/neurips2024_poster.pdf)/[paper](https://openreview.net/pdf?id=63VajkIDEu)]
 * Kajino, H., **Miyaguchi, K.**, & Osogami, T. (2023). Biases in evaluation of molecular optimization methods and bias reduction strategies. ICML-23.
